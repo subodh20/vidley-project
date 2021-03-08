@@ -8,9 +8,10 @@
     "@testing-library/user-event": "^12.6.0",
     "bootstrap": "^4.5.3",
     "font-awesome": "^4.7.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
